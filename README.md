@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Navele%20Neehar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20the%20future%20with%20AI&descAlignY=60"/>
@@ -8,7 +7,7 @@
 ### AI Enthusiast • Java Developer • Full Stack Learner
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Java+Developer;Full+Stack+Learner;Building+AI+Driven+Applications;Always+Learning+New+Things"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Java+%7C+Python+%7C+MongoDB;Full+Stack+Developer;Building+AI+Driven+Applications;Always+Learning+New+Things"/>
 </p>
 
 <p align="center">
@@ -26,13 +25,13 @@
 💡 Passionate about:
 - Artificial Intelligence
 - Full Stack Development
-- Problem Solving
 - Real-Time Applications
+- Problem Solving
 
 🚀 Currently improving:
 - Data Structures & Algorithms
 - AI/ML Concepts
-- Backend Development
+- Scalable Web Applications
 
 🌱 Goal:
 > Build impactful AI-powered products that solve real-world problems.
@@ -52,13 +51,13 @@
 # 🚀 Featured Projects
 
 ## 🧠 Nemo Chat
-Real-time messaging platform with room-based communication.
+> Real-time messaging platform with room-based chat system.
 
 ### 🔹 Features
 - Real-time communication using Socket.io
-- Secure authentication system
+- Secure user authentication
 - MongoDB database integration
-- Room-based chat functionality
+- Room creation and messaging system
 
 ### 🛠️ Tech Used
 `Node.js` `Express.js` `MongoDB` `Socket.io`
@@ -66,7 +65,7 @@ Real-time messaging platform with room-based communication.
 ---
 
 ## 📋 Advanced Attendance System
-Full-stack attendance management platform.
+> Full-stack attendance management platform.
 
 ### 🔹 Features
 - JWT Authentication
@@ -101,16 +100,12 @@ Full-stack attendance management platform.
 
 ---
 
-# 🧠 Coding Profiles
+# 🧠 LeetCode & Coding Profiles
 
 <div align="center">
 
 <a href="https://www.geeksforgeeks.org/profile/neeharnavele">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Neehar112233">
-  <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -134,6 +129,10 @@ Full-stack attendance management platform.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://github.com/Neehar112233">
+  <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://a.neeharnavele.me">
   <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
@@ -148,7 +147,9 @@ Full-stack attendance management platform.
 
 # 📧 Contact
 
-📩 **Email:** naveleneehar2006@gmail.com
+```txt
+naveleneehar2006@gmail.com
+```
 
 ---
 
@@ -156,7 +157,7 @@ Full-stack attendance management platform.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Neehar112233/Neehar112233/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/Neehar112233/Neehar112233/output/snake.svg" alt="Snake animation"/>
 
 </div>
 
@@ -169,4 +170,3 @@ Full-stack attendance management platform.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 
 </div>
-```
