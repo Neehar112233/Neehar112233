@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027">
+        <animate attributeName="stop-color" values="#0f2027;#203a43;#0f2027" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#203a43">
+        <animate attributeName="stop-color" values="#203a43;#2c5364;#203a43" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#2c5364">
+        <animate attributeName="stop-color" values="#2c5364;#0f2027;#2c5364" dur="10s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Wave Gradient -->
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#3182CE" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#0f2027" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 55px;
+      font-weight: 800;
+      fill: #ffffff;
+      text-anchor: middle;
+      letter-spacing: 2px;
+    }
+    
+    .subtitle {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 20px;
+      font-weight: 400;
+      fill: #58A6FF;
+      text-anchor: middle;
+      letter-spacing: 4px;
+    }
+
+    /* Floating animation for text */
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-8px); }
+      100% { transform: translateY(0px); }
+    }
+    .content-group {
+      animation: float 5s ease-in-out indefinite;
+    }
+
+    /* Glow effect for the title */
+    @keyframes textGlow {
+      0% { text-shadow: 0 0 10px rgba(255,255,255,0.2), 0 0 20px rgba(88,166,255,0.3); }
+      50% { text-shadow: 0 0 20px rgba(255,255,255,0.4), 0 0 30px rgba(88,166,255,0.6); }
+      100% { text-shadow: 0 0 10px rgba(255,255,255,0.2), 0 0 20px rgba(88,166,255,0.3); }
+    }
+    .title {
+      animation: textGlow 3s ease-in-out indefinite;
+    }
+
+    /* Animated stars/particles */
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.2; transform: scale(0.8); }
+      50% { opacity: 1; transform: scale(1.2); }
+    }
+    .star {
+      animation: twinkle 4s ease-in-out indefinite;
+    }
+    .star:nth-child(even) {
+      animation-duration: 3s;
+      animation-delay: 1s;
+    }
+    .star:nth-child(3n) {
+      animation-duration: 5s;
+      animation-delay: 2s;
+    }
+
+    /* Wave animations */
+    @keyframes waveMove1 {
+      0% { transform: translateX(0) scaleY(1); }
+      50% { transform: translateX(-25%) scaleY(1.1); }
+      100% { transform: translateX(-50%) scaleY(1); }
+    }
+    @keyframes waveMove2 {
+      0% { transform: translateX(-50%) scaleY(1); }
+      50% { transform: translateX(-25%) scaleY(1.2); }
+      100% { transform: translateX(0) scaleY(1); }
+    }
+    .wave1 {
+      animation: waveMove1 15s linear indefinite;
+    }
+    .wave2 {
+      animation: waveMove2 20s linear indefinite;
+      opacity: 0.5;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bgGrad)" />
+
+  <!-- Animated Waves -->
+  <g opacity="0.6">
+    <path class="wave1" fill="url(#waveGrad)" d="M0,250 C200,180 400,280 600,220 C800,160 1000,250 1200,200 C1400,150 1600,250 1600,250 L1600,250 L0,250 Z" />
+    <path class="wave2" fill="url(#waveGrad)" d="M-800,250 C-600,200 -400,280 -200,220 C0,160 200,250 400,180 C600,110 800,250 800,250 L800,250 L-800,250 Z" />
+  </g>
+
+  <!-- Particles -->
+  <circle class="star" cx="150" cy="50" r="2" fill="#fff" />
+  <circle class="star" cx="700" cy="80" r="3" fill="#58A6FF" />
+  <circle class="star" cx="650" cy="180" r="1.5" fill="#fff" />
+  <circle class="star" cx="100" cy="150" r="2.5" fill="#a2d2ff" />
+  <circle class="star" cx="400" cy="30" r="2" fill="#fff" />
+  <circle class="star" cx="500" cy="200" r="1" fill="#58A6FF" />
+  <circle class="star" cx="250" cy="220" r="2" fill="#fff" />
+
+  <!-- Content -->
+  <g class="content-group">
+    <text x="400" y="115" class="title">Navele Neehar</text>
+    <text x="400" y="165" class="subtitle">BUILDING THE FUTURE WITH AI</text>
+  </g>
+</svg>

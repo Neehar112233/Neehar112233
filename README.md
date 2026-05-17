@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Navele%20Neehar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20the%20future%20with%20AI&descAlignY=60"/>
+<a href="https://a.neeharnavele.me">
+  <img src="header.svg" alt="Navele Neehar - Building the future with AI" width="100%" />
+</a>
 
 # 👋 Hey, I'm Navele Neehar
 
