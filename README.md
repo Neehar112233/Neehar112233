@@ -157,7 +157,7 @@ naveleneehar2006@gmail.com
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Neehar112233/Neehar112233/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Neehar112233/Neehar112233/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
