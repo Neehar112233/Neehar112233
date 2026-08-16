@@ -1,0 +1,38 @@
+[
+  {
+    "name": "SmartReach",
+    "repo": "Neehar112233/SmartReach",
+    "description": "AI-Powered Recruiter Email Personalization & Outreach Platform",
+    "tags": ["TypeScript", "NextJS", "FastAPI", "Docker"]
+  },
+  {
+    "name": "NemoChat",
+    "repo": "Neehar112233/nemochat",
+    "description": "High-performance real-time messaging & room chat system on Cloudflare Edge",
+    "tags": ["JavaScript", "WebSockets", "MongoDB", "Cloudflare"]
+  },
+  {
+    "name": "Portfolio",
+    "repo": "Neehar112233/portfolio",
+    "description": "Personal interactive portfolio showcasing AI & Full-Stack engineering",
+    "tags": ["TypeScript", "NextJS", "TailwindCSS"]
+  },
+  {
+    "name": "Story Generator AI",
+    "repo": "Neehar112233/image_to_story_generator",
+    "description": "Multimodal AI engine generating creative stories and narratives from images",
+    "tags": ["Python", "PyTorch", "Transformers", "AI"]
+  },
+  {
+    "name": "Attendance System",
+    "repo": "Neehar112233/attendence_system",
+    "description": "Automated attendance tracking and analytics platform with JWT auth",
+    "tags": ["NodeJS", "Express", "MongoDB"]
+  },
+  {
+    "name": "Personal Web",
+    "repo": "Neehar112233/my_website",
+    "description": "Modern responsive personal web presence and interactive showcase",
+    "tags": ["JavaScript", "HTML5", "CSS3"]
+  }
+]

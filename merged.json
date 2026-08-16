@@ -1,0 +1,109 @@
+[
+  {
+    "name": "SmartReach",
+    "repo": "Neehar112233/SmartReach",
+    "description": "AI-Powered Recruiter Email Personalization & Outreach Platform",
+    "tags": [
+      "TypeScript",
+      "NextJS",
+      "FastAPI",
+      "Docker"
+    ],
+    "stars": 0,
+    "pushed_at": "2026-08-16T05:29:27Z",
+    "languages": {
+      "TypeScript": 277041,
+      "Python": 166272,
+      "CSS": 7761,
+      "Dockerfile": 1617,
+      "HTML": 690,
+      "Batchfile": 644
+    }
+  },
+  {
+    "name": "NemoChat",
+    "repo": "Neehar112233/nemochat",
+    "description": "High-performance real-time messaging & room chat system on Cloudflare Edge",
+    "tags": [
+      "JavaScript",
+      "WebSockets",
+      "MongoDB",
+      "Cloudflare"
+    ],
+    "stars": 1,
+    "pushed_at": "2026-08-16T06:51:16Z",
+    "languages": {
+      "JavaScript": 71958,
+      "CSS": 32166,
+      "HTML": 587
+    }
+  },
+  {
+    "name": "Portfolio",
+    "repo": "Neehar112233/portfolio",
+    "description": "Personal interactive portfolio showcasing AI & Full-Stack engineering",
+    "tags": [
+      "TypeScript",
+      "NextJS",
+      "TailwindCSS"
+    ],
+    "stars": 0,
+    "pushed_at": "2026-05-17T07:55:27Z",
+    "languages": {
+      "TypeScript": 204660,
+      "CSS": 3677,
+      "JavaScript": 1250
+    }
+  },
+  {
+    "name": "Story Generator AI",
+    "repo": "Neehar112233/image_to_story_generator",
+    "description": "Multimodal AI engine generating creative stories and narratives from images",
+    "tags": [
+      "Python",
+      "PyTorch",
+      "Transformers",
+      "AI"
+    ],
+    "stars": 0,
+    "pushed_at": "2026-04-30T05:06:05Z",
+    "languages": {
+      "Python": 5538
+    }
+  },
+  {
+    "name": "Attendance System",
+    "repo": "Neehar112233/attendence_system",
+    "description": "Automated attendance tracking and analytics platform with JWT auth",
+    "tags": [
+      "NodeJS",
+      "Express",
+      "MongoDB"
+    ],
+    "stars": 0,
+    "pushed_at": "2026-05-17T09:33:12Z",
+    "languages": {
+      "HTML": 33991,
+      "CSS": 33887,
+      "JavaScript": 32663,
+      "Python": 20231
+    }
+  },
+  {
+    "name": "Personal Web",
+    "repo": "Neehar112233/my_website",
+    "description": "Modern responsive personal web presence and interactive showcase",
+    "tags": [
+      "JavaScript",
+      "HTML5",
+      "CSS3"
+    ],
+    "stars": 0,
+    "pushed_at": "2026-05-17T16:38:28Z",
+    "languages": {
+      "JavaScript": 24520,
+      "CSS": 15821,
+      "HTML": 6407
+    }
+  }
+]

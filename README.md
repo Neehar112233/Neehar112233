@@ -1,173 +1,83 @@
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neehar112233/Neehar112233/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neehar112233/Neehar112233/main/light.svg">
+  <img alt="Navele Neehar" src="https://raw.githubusercontent.com/Neehar112233/Neehar112233/main/dark.svg">
+</picture>
+
+<!-- ===== GITHUB STATS ===== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Navele%20Neehar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20the%20future%20with%20AI&descAlignY=60"/>
+<!-- Streak — full width -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Neehar112233&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Neehar112233&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Neehar's streak" />
+</picture>
 
-# 👋 Hey, I'm Navele Neehar
+<br/>
 
-### AI Enthusiast • Java Developer • Full Stack Learner
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Java+%7C+Python+%7C+MongoDB;Full+Stack+Developer;Building+AI+Driven+Applications;Always+Learning+New+Things"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Neehar112233&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<!-- Stats + Top languages — side by side -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=Neehar112233&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=Neehar112233&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Neehar's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Neehar112233&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Neehar112233&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
 
 </div>
 
----
-
-# 💫 About Me
-
-🎓 B.Tech Student specializing in **Computer Science & Artificial Intelligence**
-
-💡 Passionate about:
-- Artificial Intelligence
-- Full Stack Development
-- Real-Time Applications
-- Problem Solving
-
-🚀 Currently improving:
-- Data Structures & Algorithms
-- AI/ML Concepts
-- Scalable Web Applications
-
-🌱 Goal:
-> Build impactful AI-powered products that solve real-world problems.
-
----
-
-# ⚡ Tech Stack
+<!-- ===== CONTRIBUTION SNAKE ===== -->
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,nodejs,express,mongodb,mysql,git,github,vscode"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neehar112233/Neehar112233/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neehar112233/Neehar112233/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Neehar112233/Neehar112233/output/snake-dark.svg" />
+</picture>
 
 </div>
 
----
-
-# 🚀 Featured Projects
-
-## 🧠 Nemo Chat
-> Real-time messaging platform with room-based chat system.
-
-### 🔹 Features
-- Real-time communication using Socket.io
-- Secure user authentication
-- MongoDB database integration
-- Room creation and messaging system
-
-### 🛠️ Tech Used
-`Node.js` `Express.js` `MongoDB` `Socket.io`
-
----
-
-## 📋 Advanced Attendance System
-> Full-stack attendance management platform.
-
-### 🔹 Features
-- JWT Authentication
-- Attendance Tracking
-- Secure Password Encryption
-- MongoDB Atlas Integration
-
-### 🛠️ Tech Used
-`Node.js` `Express.js` `MongoDB`
-
----
-
-# 📊 GitHub Stats
-
+<!-- ===== DYNAMIC PROJECTS PANEL ===== -->
+<br/>
+<br/>
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Neehar112233&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Neehar112233&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neehar112233/Neehar112233/main/projects.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neehar112233/Neehar112233/main/projects-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Neehar112233/Neehar112233/main/projects.svg" alt="Featured Projects" />
+</picture>
 </div>
 
----
-
-# 🔥 GitHub Streak
-
+<!-- ===== SOCIAL BADGES ===== -->
+<br/>
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Neehar112233&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🧠 LeetCode & Coding Profiles
-
-<div align="center">
-
-<a href="https://www.geeksforgeeks.org/profile/neeharnavele">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<a href="https://www.linkedin.com/in/neehar-navele/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://a.neeharnavele.me" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=google-chrome&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Neehar112233" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=0A101F" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/neehar_navele" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:naveleneehar2006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
 
 </div>
 
----
-
-# 🏆 Certifications
-
-✅ AWS Certified Cloud Practitioner  
-✅ Microsoft Certified: Azure AI Engineer Associate  
-✅ MongoDB Certified Associate Developer  
-✅ Microsoft Certified: Azure Fundamentals  
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/neehar-navele/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Neehar112233">
-  <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://a.neeharnavele.me">
-  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/neehar_navele">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 📧 Contact
-
-```txt
-naveleneehar2006@gmail.com
-+91 7989970791
-```
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Neehar112233/Neehar112233/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 “Building the future with AI”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
-
-</div>
+<!-- ===== END SOCIAL BADGES ===== -->
